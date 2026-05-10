@@ -4,6 +4,9 @@
 
 ---
 
+![Dashboard Preview](demo.png)
+
+
 ## 🚀 Key Features
 
 * **Advanced Analytics Dashboard:**
